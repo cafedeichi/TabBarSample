@@ -1,9 +1,0 @@
-# TabBarSample
-UITabBarControllerとUINavigationControllerを組み合わせたアプリの基本構成のサンプルです。
-
-UITabBarControllerとUINavigationControllerを組み合わせたアプリの基本構成を、Storyboardを使ってコードレスで実現します。
-
-何かとiOS開発者に嫌われがちなStoryboardですが、基本構成のみに絞って画面を作る分には、xibのみで実現するよりもはるかに楽だと思います。
-
-サンプルのように各タブの初画面までをつくり、それらからの遷移先をxibにつくるようにすることでStoryBoardの肥大化を防ぎ、且つ複数人開発による分業も容易にします。
-
